@@ -1,2 +1,2 @@
 # App-Quitter
-This program allow you to set the timer to the Application
+This program allow you to set the timer to close the Application
