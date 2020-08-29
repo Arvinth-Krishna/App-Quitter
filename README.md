@@ -24,7 +24,7 @@ https://github.com/Arvinth-Krishna/App-Quitter/archive/master.zip
 ![image](https://user-images.githubusercontent.com/49812701/91629615-29ba9680-e9e8-11ea-9c7a-e9b1cdfe1413.png)
 
 
-![image](https://user-images.githubusercontent.com/49812701/91399568-d287bb00-e85b-11ea-888f-8384e21a18a5.png)
+![image](https://user-images.githubusercontent.com/49812701/91636705-568aa000-ea20-11ea-8c85-27ba2b58f00f.png)
 
 
 ![image](https://user-images.githubusercontent.com/49812701/91399705-17abed00-e85c-11ea-91cb-56eb594f9429.png)
