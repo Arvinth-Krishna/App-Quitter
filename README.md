@@ -8,7 +8,9 @@ https://github.com/Arvinth-Krishna/App-Quitter/archive/master.zip
 
 Step2: Extract the file
 
-Step3: Run the .bat file
+Step3: Run the .bat file and follow the steps given below in the image✌
+![1598680744226__01](https://user-images.githubusercontent.com/49812701/91629965-312f6f00-e9eb-11ea-9eb2-0edeaa67461b.jpg)
+
 
 
 ## User interface
