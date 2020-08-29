@@ -5,7 +5,7 @@ cls
 echo.
 echo.
 echo *******************************************************
-echo              Welcome to APP QUITER
+echo              Welcome to APP QUITER - GAK
 echo *******************************************************
 echo.
 
