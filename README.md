@@ -16,6 +16,9 @@ https://github.com/Arvinth-Krishna/App-Quitter/archive/master.zip
 
 
 .
+
+
+
 # User interface
 
 ![image](https://user-images.githubusercontent.com/49812701/91629615-29ba9680-e9e8-11ea-9c7a-e9b1cdfe1413.png)
