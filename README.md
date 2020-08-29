@@ -2,7 +2,7 @@
 This program allows you to set the timer to close the Application.
 
 ## Follow the steps below to install in your PC:
-### Step1: click the link to download a Zip file👇
+### Step1: Click the link to download a Zip file👇
 
 https://github.com/Arvinth-Krishna/App-Quitter/archive/master.zip
 
